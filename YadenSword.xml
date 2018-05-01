@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>YadenPrueba1 </title>        
+<title>YadenPrueba1</title>        
 <urlsolve>https://www.youtube.com/watch?v=don4UnYG1_g</urlsolve>
 <thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
+<item>
+<title>YuGiOh GX 01x01</title>        
+<urlsolve>https://www.youtube.com/watch?v=lsrfVmIatTk</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
