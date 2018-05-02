@@ -4,8 +4,8 @@
 <title>DMBTeam</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>https://raw.githubusercontent.com/Dralahed/CanalesAbiertos/master/YadenSword.xml</link>
-<externallink></externallink>
+<link></link>
+<externallink>https://raw.githubusercontent.com/Dralahed/CanalesAbiertos/master/YadenSword.xml</externallink>
 </item>
  
 <item>
@@ -17,10 +17,10 @@
 </item>
  
 <item>
-<title>RCN2</title>
+<title>RCN</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://www.canalrcn.com/streamingrcn</externallink>
+<link>https://raw.githubusercontent.com/Dralahed/CanalesAbiertos/master/RCN.xml</link>
+<externallink></externallink>
 </item>
  
